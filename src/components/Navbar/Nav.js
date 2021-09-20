@@ -92,13 +92,13 @@ const Nav = () => {
                 </i>Services
               </NavLink>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <NavLink className="nav-link" to="/testimonial" exact>
                 <i 
                 className="far fa-chart-bar">
                 </i>Testimonial
               </NavLink>
-            </li>
+            </li> */}
             <li className="nav-item">
               <NavLink className="nav-link" to="/contact" exact>
                 <i 
